@@ -1,0 +1,2 @@
+# ADAM2020
+Solution to MICCAI 2020 ADAM
