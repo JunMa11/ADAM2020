@@ -32,6 +32,8 @@ cd nnUNet/nnunet
 
 ## Step 2. Inference
 
+Download the trained models: [link](https://pan.baidu.com/s/176J6mS8dx89Nbht5EaeYEg ) (PW: b9oo), and put it in the `ADAM2020/nnUNet/nnunet/TrainedModels/nnUNet/3d_fullres`
+
 Run
 
 ```python
